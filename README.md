@@ -1,3 +1,2 @@
 # Homework
 main
-davaleba
